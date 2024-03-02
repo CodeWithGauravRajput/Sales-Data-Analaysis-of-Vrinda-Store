@@ -28,9 +28,9 @@ The following sophisticated techniques will be employed to extract initial insig
     - Insightful Pie Charts: Visualizing intricate product distributions by category of gender column.
 
 ## Analysis and Insights
-
+#### These are the max contibuter channels
 ![Vrinda Store Sales by Product Category](https://i.imgur.com/sMYbGDL.png)
-### These are the max contibuter
+
 
 This pivotal section will present paramount findings and expert insights derived from the analysis, focusing on actionable takeaways that directly empower Vrinda Store, including:
 
