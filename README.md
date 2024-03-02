@@ -1,6 +1,6 @@
 # Vrinda Store Data Analysis
 
-
+![vrinda store Dashbord](https://imgur.com/N7BUbRF)
 
 ## Overview
 
