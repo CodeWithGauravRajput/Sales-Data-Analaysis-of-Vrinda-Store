@@ -1,6 +1,6 @@
 # Vrinda Store Data Analysis
 
-![vrinda store Dashbord](https://imgur.com/N7BUbRF)
+![vrinda store Dashbord](https://i.imgur.com/N7BUbRF.png)
 
 ## Overview
 
@@ -29,7 +29,7 @@ The following sophisticated techniques will be employed to extract initial insig
 
 ## Analysis and Insights
 
-![Vrinda Store Sales by Product Category](https://i.imgur.com/your_image_id.png)
+![Vrinda Store Sales by Product Category](https://i.imgur.com/sMYbGDL.png)
 ### These are the max contibuter
 
 This pivotal section will present paramount findings and expert insights derived from the analysis, focusing on actionable takeaways that directly empower Vrinda Store, including:
